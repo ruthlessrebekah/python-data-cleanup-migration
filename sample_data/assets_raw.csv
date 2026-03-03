@@ -1,0 +1,5 @@
+asset_id,manufacturer,model,serial_number,install_date,status,notes
+ EH-001,  nest ,T3007ES,AA11BB22,01/15/2024,Active,"thermostat"
+EH-002,Tesla,Powerwall 2,,2024-02-01,active,"missing serial"
+EH-002,tesla,Powerwall 2,CC33DD44,2/1/2024,ACTIVE,"duplicate id"
+EH-003,Generac ,pwrcell,GG55HH66,,inactive,""
